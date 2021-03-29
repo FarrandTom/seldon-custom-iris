@@ -1,7 +1,7 @@
 from seldon_core.seldon_client import SeldonClient
 import numpy as np
 
-endpoint = "0.0.0.0:5001"
+endpoint = "0.0.0.0:9001"
 
 data = [
     [6.8,  2.8,  4.8,  1.4],
